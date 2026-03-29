@@ -11,7 +11,7 @@
 
 PiperQL is an open-source AI agent that connects to your PostgreSQL databases and lets anyone on your team get answers using plain English. Ask a question, get tables, charts, and insights — no SQL knowledge required.
 
-[Website](https://piperql.com) | [Report Bug](https://github.com/ajaysharmadeveloper/piperql/issues) | [Request Feature](https://github.com/ajaysharmadeveloper/piperql/issues)
+[Website](https://piperql.vercel.app) | [Report Bug](https://github.com/ajaysharmadeveloper/piperql/issues) | [Request Feature](https://github.com/ajaysharmadeveloper/piperql/issues)
 
 </div>
 
