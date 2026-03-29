@@ -152,7 +152,7 @@ Copyright (C) 2026 Ajay Kumar Sharma
 
 <div align="center">
 
-**Built by [Ajay Kumar Sharma](https://github.com/ajaysharmadeveloper)**
+**Built by [Ajay Kumar Sharma](https://www.ajaykumarsharma.co.in/)**
 
 If PiperQL helps you, give it a star!
 
